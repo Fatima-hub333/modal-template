@@ -5,7 +5,7 @@ It's a responsive modal template built in JavaScript, you can use this in your p
 
 
 ## [LiveDemo] 
-()
+(https://vocal-banoffee-04793f.netlify.app)
 
 ## Built With
 
